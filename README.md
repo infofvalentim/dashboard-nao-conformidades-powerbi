@@ -9,8 +9,8 @@ Power BI Desktop
 ## 📄 Visualizar o Dashboard
 👉 [Clique aqui para ver o PDF](./dashboard.pdf)
 
-## Preview
-![Dashboard](screenshots/sua-imagem.png)
+# Preview
+![Dashboard](screenshots/projeto-nao-conformidade.jpg)
 
 ## Como usar
 1. Baixe o arquivo `Não_conformidade.pbix`
