@@ -60,7 +60,7 @@ dashboard-nao-conformidades-powerbi/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Felipe Valentim]**
+Desenvolvido por **Felipe Valentim**
 🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/infofvalentim)
 
 ---
