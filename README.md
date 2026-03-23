@@ -6,13 +6,13 @@
 
 ## 🎯 Objetivo
 
-Acompanhar e visualizar as não conformidades identificadas no processo de gerenciamento de riscos, permitindo uma visão clara dos indicadores e apoiando a tomada de decisão.
+Acompanhar e visualizar as não conformidades identificadas no processo de gerenciamento de riscos, permitindo uma visão clara dos indicadores e apoiando a tomada de decisão estratégica com base em dados.
 
 ---
 
 ## 🛠️ Ferramenta Utilizada
 
-- **Power BI Desktop**
+- **Power BI Desktop** (versão mínima recomendada: **2.110 ou superior**)
 
 ---
 
@@ -53,15 +53,30 @@ dashboard-nao-conformidades-powerbi/
 ## ▶️ Como Usar
 
 1. Faça o download do arquivo `Não_conformidade.pbix`
-2. Abra no **Power BI Desktop** (gratuito em [powerbi.microsoft.com](https://powerbi.microsoft.com))
-3. Atualize a fonte de dados conforme necessário
+2. Abra no **Power BI Desktop** versão 2.110 ou superior (gratuito em [powerbi.microsoft.com](https://powerbi.microsoft.com))
+3. Na aba **Página Inicial**, clique em **Transformar Dados → Configurações da Fonte de Dados**
+4. Atualize o caminho para o arquivo de origem (formato `.xlsx` / `.csv` — incluso na pasta `data/` se disponível)
+5. Clique em **Fechar e Aplicar** para recarregar os dados
+
+> **Nota:** A fonte de dados original é um arquivo Excel (`.xlsx`) com registros de não conformidades. Caso não possua o arquivo de dados, o dashboard pode ser explorado no modo de visualização estática via o PDF incluso.
+
+---
+
+## 📋 Pré-requisitos
+
+| Requisito | Detalhe |
+|-----------|---------|
+| Power BI Desktop | Versão 2.110+ |
+| Sistema Operacional | Windows 10/11 |
+| Arquivo de dados | `.xlsx` com estrutura de não conformidades |
 
 ---
 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Felipe Valentim**
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/infofvalentim)
+
+🔗 [LinkedIn](https://linkedin.com/in/felipevalentiim) | [GitHub](https://github.com/infofvalentim)
 
 ---
 
